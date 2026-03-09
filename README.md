@@ -1,7 +1,7 @@
 # SinoNOM-BERT
 
 SinoNOM-BERT is a project developed for the **Introduction to Natural Language Processing** course.  
-The goal of this project is to explore the application of **BERT-based language models for Sino-Nom (Hán Nôm) text processing**.
+The goal of this project is to explore the application of **BERT-based language models for Sino-Nom text processing**.
 
 Sino-Nom is a historical writing system used in Vietnam, consisting mainly of **Chinese characters and locally created characters**. Due to the limited availability of digital resources and NLP tools for this script, building language models for Sino-Nom remains a challenging research problem.
 
