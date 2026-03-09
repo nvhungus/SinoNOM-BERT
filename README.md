@@ -82,6 +82,7 @@ The results indicate that:
 ---
 
 # Repository Structure
+---
 SinoNOM-BERT
 │
 ├── Data/ # Sino-Nom dataset and preprocessing
