@@ -45,8 +45,8 @@ The overall workflow of the project includes the following steps:
 
    The evaluation dataset was divided into two main categories:
 
-   - **Prose (Văn xuôi)**
-   - **Poetry (Thơ ca)**
+   - **Prose**
+   - **Poetry**
 
 ---
 
@@ -82,17 +82,19 @@ The results indicate that:
 ---
 
 # Repository Structure
----
+
+```
 SinoNOM-BERT
 │
-├── Data/ # Sino-Nom dataset and preprocessing
-├── Train_Test/ # Training and test dataset splits
-├── Training/ # Training scripts and model configurations
-├── Eval/ # Evaluation scripts and results
+├── Data/            # Sino-Nom dataset and preprocessing
+├── Train_Test/      # Training and test dataset splits
+├── Training/        # Training scripts and model configurations
+├── Eval/            # Evaluation scripts and results
+│
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+```
 ---
 
 # Technologies Used
