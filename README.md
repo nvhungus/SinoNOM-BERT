@@ -90,7 +90,6 @@ SinoNOM-BERT
 ├── Train_Test/      # Training and test dataset splits
 ├── Training/        # Training scripts and model configurations
 ├── Eval/            # Evaluation scripts and results
-│
 ├── README.md
 ├── LICENSE
 └── .gitignore
